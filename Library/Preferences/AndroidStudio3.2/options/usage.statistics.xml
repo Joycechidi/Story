@@ -1,0 +1,171 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Delete" count="4" />
+      <entry action="$Paste" count="1" />
+      <entry action="$Undo" count="28" />
+      <entry action="Android.RunAndroidAvdManager" count="5" />
+      <entry action="Android.RunAndroidSdkManager" count="2" />
+      <entry action="Android.ShowThemeEditor" count="1" />
+      <entry action="AndroidConnectDebuggerAction" count="2" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="CleanGradleProject" count="3" />
+      <entry action="CodeCleanup" count="1" />
+      <entry action="CommentByLineComment" count="2" />
+      <entry action="Debug" count="2" />
+      <entry action="DialogOkAction ⏎" count="1" />
+      <entry action="EditorBackSpace" count="1066" />
+      <entry action="EditorChooseLookupItem" count="330" />
+      <entry action="EditorCopy" count="12" />
+      <entry action="EditorCut" count="8" />
+      <entry action="EditorDown" count="513" />
+      <entry action="EditorEnter" count="234" />
+      <entry action="EditorLeft" count="137" />
+      <entry action="EditorLineEnd" count="4" />
+      <entry action="EditorLineStart" count="1" />
+      <entry action="EditorPaste" count="33" />
+      <entry action="EditorRight" count="279" />
+      <entry action="EditorUp" count="453" />
+      <entry action="Fix return type" count="1" />
+      <entry action="Go to super method" count="1" />
+      <entry action="MakeGradleProject" count="3" />
+      <entry action="NewAndroidImageAsset" count="4" />
+      <entry action="NewAndroidVectorAsset" count="1" />
+      <entry action="NewProject" count="1" />
+      <entry action="NextTemplateVariable" count="1" />
+      <entry action="Override Resource in Other Configuration..." count="1" />
+      <entry action="RebuildGradleProject" count="2" />
+      <entry action="Remove redundant semicolon" count="1" />
+      <entry action="Run" count="20" />
+      <entry action="SaveAll" count="5" />
+      <entry action="Stop" count="1" />
+      <entry action="Suppress_ Add tools_ignore= ExtraText  attribute" count="1" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="template.create.FragmentFragment (Blank)" count="2" />
+    </counts>
+  </component>
+  <component name="FeatureUsageStatistics" first-run="1534997989988" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.smarttype.afternew" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="2" last-shown="0" last-used="1540729527873" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.aslist" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.recent.search" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="0" last-shown="1541010910602" last-used="0" shown-count="1623" />
+    <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="155" last-shown="0" last-used="1540797850183" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.casting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="0" last-shown="1540797056568" last-used="0" shown-count="31" />
+    <feature id="navigation.goto.implementation" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.move.moveInner" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.global.member.name" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByExclamation" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.copyClass" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="move.element.left.right" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="jar.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="2" last-shown="0" last-used="1540799515927" shown-count="0" />
+    <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.chain" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ant.quickfix.CreateProperty" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.toar" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="310" last-shown="0" last-used="1541010911748" shown-count="0" />
+    <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.smarttype.array.member" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.postfix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable.incompleteStatement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="2" last-shown="0" last-used="1540799664309" shown-count="0" />
+    <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="1540797850188" last-used="0" shown-count="170" />
+    <feature id="codeassist.inspect.batch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ant.quickfix.CreateTarget" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.new.cmake.project" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.usages" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.block" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.basic" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="4282" />
+      <option name="invocations" value="282" />
+      <option name="startDate" value="1539756000000" />
+      <option name="dayCount" value="4" />
+      <option name="lastDate" value="1540965600000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="5" />
+      <option name="startDate" value="1540706400000" />
+      <option name="dayCount" value="1" />
+      <option name="lastDate" value="1540706400000" />
+    </fixesStatsTag>
+  </component>
+  <component name="ShortcutsCollector">
+    <counts>
+      <entry shortcut="Backspace" count="1070" />
+      <entry shortcut="Down" count="513" />
+      <entry shortcut="Enter" count="565" />
+      <entry shortcut="Left" count="137" />
+      <entry shortcut="Meta+C" count="15" />
+      <entry shortcut="Meta+Left" count="1" />
+      <entry shortcut="Meta+Right" count="4" />
+      <entry shortcut="Meta+S" count="5" />
+      <entry shortcut="Meta+Slash" count="2" />
+      <entry shortcut="Meta+V" count="33" />
+      <entry shortcut="Meta+X" count="8" />
+      <entry shortcut="Meta+Z" count="28" />
+      <entry shortcut="Right" count="279" />
+      <entry shortcut="Up" count="453" />
+    </counts>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="4" />
+      <entry feature="StripeButton[Android Profiler].shown" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Debug" count="2" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="20" />
+      <entry feature="ide.settings.GitHub" count="1" />
+      <entry feature="ideaapp.started" count="4" />
+      <entry feature="terminal.mac" count="1" />
+      <entry feature="tips.of.the.day.next" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+    </counts>
+  </component>
+  <component name="UsagesStatistic" show-notification="false" />
+</application>
