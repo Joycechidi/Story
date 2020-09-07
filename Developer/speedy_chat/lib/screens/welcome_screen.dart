@@ -51,6 +51,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 Hero(
                   tag: 'logo',
                   child: Container(
+//                    from https://www.emojiall.com/en/emoji/%F0%9F%9A%80
                     child: Image.asset('images/speedy.png'),
                     height: 60.0,
                   ),
